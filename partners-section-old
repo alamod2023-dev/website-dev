@@ -1,0 +1,10 @@
+/* TEST */
+/* Make spacing under the title minimal */
+#shopify-section-template--24667477082400__2f0abcad-c6f1-455f-beec-9ad4e7ac64d5 h2.title.h2 {
+  text-align: center !important;
+  display: flex !important;
+  justify-content: center !important;
+  width: 100% !important;
+  margin-bottom: -90px !important;
+  margin-top: 0 !important;
+}
