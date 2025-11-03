@@ -1,50 +1,63 @@
-<div class="rich-text__text rte" style="text-align: right;">
-
-  <p><strong>أين يتواجد أقرب فرع؟</strong><br>
-  لا يوجد معرض أو فروع، المتجر إلكتروني فقط.</p>
-
-  <p><strong>ماهي الدول التي يتم التوصيل إليها؟</strong><br>
-  جميع مناطق المملكة العربية السعودية ودول الخليج — تعرّف على التفاصيل من خلال 
-  <a href="https://alamoud.com/pages/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%B4%D8%AD%D9%86?_pos=1&amp;_sid=ddb34a0ee&amp;_ss=r" title="سياسة الشحن">سياسة الشحن</a>.
-  </p>
-
-  <p><strong>هل المنتجات تستغرق وقتًا للتجهيز؟</strong><br>
-  نعم، أغلب المنتجات تحتاج وقتًا للتجهيز بعد الطلب مثل (مواقد – شلالات – نوافير).</p>
-
-  <p><strong>هل يمكن تغيير المقاس؟</strong><br>
-  نعم، عن طريق التواصل مع خدمة العملاء وتقديم طلب خاص.</p>
-
-  <p><strong>هل يوجد طلب تصميم للمكان؟</strong><br>
-  لا يوجد تصميم وتنسيق للمكان، فقط بيع منتجات.</p>
-
-  <p><strong>ماهي طريقة التحكم بالإضاءة والمنتج؟</strong><br>
-  حسب نوع المنتج، البعض منها عن بُعد باستخدام ريموت التحكم أو عن طريق قابس الكهرباء.</p>
-
-  <p><strong>هل تحتاج المنتجات إلى الكهرباء؟</strong><br>
-  نعم، تحتاج فيش كهرباء ثلاثي.</p>
-
-  <p><strong>كم قوة الكهرباء؟</strong><br>
-  تتراوح قوة الكهرباء ما بين 50 فولت إلى 300 فولت حسب حجم المنتج.</p>
-
-  <p><strong>كم يبلغ طول سلك الكهرباء؟</strong><br>
-  يختلف طول سلك الكهرباء حسب نوع المنتج، ويتراوح عادةً بين مترين إلى خمسة أمتار.</p>
-
-  <p><strong>هل تتطلب المنتجات تسليك وتمديد وبناء؟</strong><br>
-  جميع منتجاتنا لا تحتاج إلى بناء أو تسليك وتمديدات للماء (تعبئة ذاتية وإعادة تدوير).</p>
-
-  <p><strong>كيف يتم تغيير الماء للمنتج؟</strong><br>
-  مرفق هوز خارجي يتم تبديل الماء عن طريقه باتباع تعليمات الكتالوج.</p>
-
-  <p><strong>كيف يتم تنظيف المنتج؟</strong><br>
-  للحفاظ على جودة المنتج، يُنصح بتنظيفه باستخدام إسفنج ناعم مع كمية قليلة من الصابون السائل.</p>
-
-  <p><strong>كيف يتم تركيب وتشغيل المنتج واستخدامه؟</strong><br>
-  أغلب المنتجات جاهزة بنسبة كبيرة، فقط تحتاج لترتيب الملحقات حسب خطوات الكتالوج وتوصيلها بالكهرباء.
-  (<a href="https://alamoud.com/pages/%D8%A5%D8%B1%D8%B4%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85" title="إرشادات الاستخدام" target="_blank">عرض إرشادات الاستخدام</a>)
-  </p>
-
-  <p><strong>هل التشجير مطابق تمامًا للتصميم والصور المعروضة؟</strong><br>
-  التشجير الصناعي يُنفّذ بنفس الفكرة والتصميم الظاهر في الصور مع مراعاة اختيار الأشجار الأقرب والأفضل.  
-  قد يختلف بشكل بسيط حسب التوفر، لكن نحافظ دائمًا على نفس الطابع والجمالية العامة للمنتج.</p>
-
-  <p><strong>كيف يمك
+<div style="text-align: right;" class="rich-text__text rte">
+<p style="text-align: right;"><strong>اين يتواجد اقرب فرع ؟</strong></p>
+<p style="text-align: right;">&nbsp;لا يوجد معرض أو فروع, متجر إلكتروني فقط&nbsp;</p>
+<p style="text-align: right;"><strong></strong><strong>ماهي الدول التي يتم التوصيل إليها؟</strong><strong></strong></p>
+<p style="text-align: right;">جميع مناطق المملكة العربية السعودية ودول الخليج تعرّف على التفاصيل من خلال <a title="سياسة الشحن" href="https://alamoud.com/pages/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%B4%D8%AD%D9%86?_pos=1&amp;_sid=ddb34a0ee&amp;_ss=r">سياسة الشحن</a></p>
+<p style="text-align: right;"><strong></strong><strong>&nbsp;هل المنتجات تستغرق وقت للتجهيز؟</strong></p>
+<p style="text-align: right;">&nbsp;(...نعم , أغلب المنتجات تحتاج وقت للتجهيز بعد الطلب مثل (مواقد - شلالات - نوافير</p>
+<p style="text-align: right;"><strong>هل يمكن تغيير المقاس ؟</strong></p>
+<p style="text-align: right;">نعم, عن طريق التواصل مع خدمة العملاء و تقديم طلب خاص</p>
+<p style="text-align: right;"><strong>هل يوجد طلب&nbsp;تصميم للمكان ؟</strong></p>
+<p style="text-align: right;">لا يوجد تصميم وتنسيق للمكان فقط بيع منتجات</p>
+<p style="text-align: right;"><strong>ماهي طريقة التحكم بالاضاءة و المنتج ؟</strong></p>
+<p style="text-align: right;">حسب نوع المنتج, البعض منها عن بعد بإستخدام ريموت التحكم أو عن طريق قابس الكهرباء</p>
+<p style="text-align: right;"><strong>هل تحتاج المنتجات الى الكهرباء ؟</strong></p>
+<p style="text-align: right;">نعم, تحتاج فيش كهرباء ثلاثي</p>
+<p style="text-align: right;"><strong>كم قوة الكهرباء ؟</strong></p>
+<p style="text-align: right;">تتراوح قوة الكهرباء ما بين 50 فولت الى 300 فولت حسب حجم المنتج&nbsp;</p>
+<p style="text-align: right;"><strong data-start="69" data-end="101">كم يبلغ طول سلك الكهرباء؟</strong><br data-start="101" data-end="104">يختلف طول سلك الكهرباء حسب نوع المنتج، ويتراوح عادةً بين مترين إلى خمسة أمتار</p>
+<p style="text-align: right;"><strong>هل تتطلب المنتجات تسليك وتمديد وبناء ؟</strong></p>
+<p style="text-align: right;"><span>جميع منتجاتنا لا تحتاج إلى بناء أو تسليك وتمديدات للماء&nbsp; </span></p>
+<p style="text-align: right;"><span>(تعبئة ذاتية و إعادة تدوير )</span></p>
+<p style="text-align: right;"><strong>كيف يتم تغيير الماء للمنتج؟&nbsp;</strong></p>
+<p style="text-align: right;">مرفق هوز خارجي يتم تبديل الماء عن طريقه و إتباع تعليمات الكتالوج</p>
+<p style="text-align: right;"><strong>كيف يتم تنظيف المنتج؟</strong></p>
+<p style="text-align: right;">للحفاظ على جودة المنتج، يُنصح بتنظيفه باستخدام إسفنج ناعم مع كمية قليلة من الصابون السائل</p>
+<p style="text-align: right;"><strong>كيف يتم تركيب وتشغيل المنتج و إستخدامه؟&nbsp;</strong></p>
+<p style="text-align: right;"><span>أغلب المنتجات جاهزة بنسبة كبيرة فقط تحتاج لترتيب الملحقات حسب خطوات الكتالوج وتوصيلها </span></p>
+<p style="text-align: right;"><span>&nbsp;, بالكهرباء&nbsp;</span></p>
+<p style="text-align: right;"><span>&nbsp;</span><span>(&nbsp;</span><a title="إرشادات الإستخدام" href="https://alamoud.com/pages/%D8%A5%D8%B1%D8%B4%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85" target="_blank">عرض</a>&nbsp; إرشادات الإستخدام )</p>
+<p style="text-align: right;"><strong>عند الطلب هل التشجير يكون مطابق تمامًا للتصميم والصور المعروضة , أم يمكن أن يختلف في نوع أو شكل النباتات وطريقة توزيعها ؟</strong></p>
+<p style="text-align: right;">التشجير الصناعي يُنفّذ بنفس الفكرة والتصميم الظاهر في الصور مع مراعاة إختيار الأشجار الأقرب والأفضل , قد يختلف بشكل بسيط حسب توفر الأشجار لكن نحافظ دائمًا على نفس الطابع و الجمالية العامة للمنتج</p>
+<p style="text-align: right;"><strong>كيف يمكنني تتبع طلبي؟</strong><strong></strong></p>
+<p style="text-align: right;">يمكنك تتبع طلبك من خلال زيارة صفحة تتبع الطلب<a title="تتبع الطلب" href="https://alamoud.com/apps/parcelpanel"> عرض</a></p>
+<p style="text-align: right;"><strong>ماهي مادة التصنيع للمنتجات ؟</strong></p>
+<p style="text-align: right;">&nbsp;المنتجات مصنوعة من مادة الكونكريت او فايبر حسب الرغبة</p>
+<p style="text-align: right;"><strong>ما هو الفرق بين مادة الكونكريت و الفايبر؟</strong></p>
+<p style="text-align: right;">GRC&nbsp; الكونكريت ألياف ياباني مخفف</p>
+<p style="text-align: right;">&nbsp;وزنها ثقيل نوعاً ما مقارنة بالمواد الاخرى يتميز بالثبات و المظهر الفاخر و يتحمل جميع العوامل الجوية</p>
+<p style="text-align: right;">فايبر عالي الجودة بسُمك مزدوج , و خفة وزن عالية و متانة قوية , يقاوم التمدد و التشقق يتحمل&nbsp;</p>
+<p style="text-align: right;">عوامل الطقس المختلفة, ويعد خياراً مثالياً للمساحات الداخلية و الخارجية&nbsp;</p>
+<p style="text-align: right;"><b>هل يمكنني طلب زرع طبيعي من متجركم ؟</b></p>
+<p style="text-align: right;">عذراً, لا نوفر زرع طبيعي</p>
+<p style="text-align: right;"><strong>هل المنتجات والأشجار مقاومة للعوامل الخارجية وحرارة الشمس ؟</strong></p>
+<p style="text-align: right;">نعم , مادة الكونكريت و الفايبر مقاومة للعوامل الخارجية وحرارة الشمس والماء , لكن الأشجار الصناعية لا تتحمل أشعة الشمس المباشرة ولها عمر افتراضي في الخارج</p>
+<p style="text-align: right;"><strong>ماهي المناطق المتواجدة في نطاق الشركة ؟</strong></p>
+<p style="text-align: right;">&nbsp;المنطقة الشرقية, المنطقة الوسطى , الغربية ( مكة جدة ، الطائف ) , حائل ، المدينة ، حفر الباطن</p>
+<p style="text-align: right;"><strong>ماهي طرق الدفع المتوفرة , وهل يوجد الدفع عند الاستلام ؟</strong></p>
+<span style="text-align: right;">بطاقات مدى</span><br><span style="text-align: right;"></span></div>
+<div style="text-align: right;" class="rich-text__text rte"><span style="text-align: right;">(Visa,MasterCard)</span><span style="text-align: right;">&nbsp;البطاقات الائتمانية</span></div>
+<div style="text-align: right;" class="rich-text__text rte"><span style="text-align: right;">Apple Pay</span></div>
+<div style="text-align: right;" class="rich-text__text rte"><span style="text-align: right;"></span><span style="text-align: right;">تحويل بنكي</span></div>
+<div style="text-align: right;" class="rich-text__text rte">تقسيط (تابي)</div>
+<div style="text-align: right;" class="rich-text__text rte">لايوجد دفع عند الاستلام</div>
+<div style="text-align: right;" class="rich-text__text rte">
+<p style="text-align: right;">&nbsp;</p>
+<p style="text-align: right;"><strong>&nbsp;هل يوجد ضمان ؟</strong></p>
+<p style="text-align: right;">&nbsp;نعم&nbsp; يوجد ضمان لمدة 24 شهر حسب السياسة&nbsp;</p>
+<p style="text-align: right;">(&nbsp;<a href="https://alamoud.com/pages/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%B5%D9%8A%D8%A7%D9%86%D8%A9" title="سياسة الضمان والصيانة">عرض</a>&nbsp;سياسة الضمان)</p>
+<p style="text-align: right;"><span>&nbsp;</span></p>
+<p style="text-align: center;"><strong></strong>&nbsp;&nbsp;</p>
+</div>
+<h2 class="rich-text__heading rte inline-richtext h2" style="text-align: center;">اذا كان لا يزال لديك اسئلة لا تتردد بالتواصل معنا</h2>
+<p>&nbsp;</p>
