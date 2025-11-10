@@ -1,0 +1,8 @@
+<div class="custom-banner"> <img src="https://cdn.shopify.com/s/files/1/0739/9696/0032/files/aad520447a492bebe3aef522adee0d1e_2c3fb87f-2ae5-471e-b176-19246d7539aa.png?v=1756282814
+" alt="وصف الصورة" class="banner-image"> <a href="https://alamoud.com/collections/%D8%A8%D8%A7%D9%82%D8%A7%D8%AA" class="bannerr-button">عرض</a> </div> <style> .custom-banner { position: relative; text-align: center; } .banner-image { width: 100%; height: auto; } .bannerr-button { position: absolute; top: 0; left: 0;
+width: 100%;
+height: 100%;
+opacity: 0;
+z-index: 10;
+}
+واجهة المتجر قسم الباقات (custom css)
